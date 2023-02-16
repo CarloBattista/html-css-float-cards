@@ -10,3 +10,25 @@ body {
     background-color: #fff;
     color: #000;
 }
+
+/* Header */
+
+header {
+    width: 80%;
+    margin: 0 auto;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.title_header{
+    color: rgb(255, 13, 255);
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.description{
+    color: #000;
+    font-size: 18px;
+    font-weight: 400;
+}
